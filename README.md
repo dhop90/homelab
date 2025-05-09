@@ -1,4 +1,5 @@
-![screenshot_2025-05-09_at_08.45.23.jpg](/Screenshot_2025-05-09_at_08.45.23.jpg)
+![header.jpg](/header.jpg)
+
 # HomeLab
 
 #### Table of Contents
