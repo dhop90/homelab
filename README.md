@@ -1,4 +1,4 @@
-![header.jpg](/header.jpg)
+![header.jpg](/images/header.jpg)
 
 # HomeLab
 
